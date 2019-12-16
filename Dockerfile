@@ -1,4 +1,4 @@
-### vi Dockerfile
+## vi Dockerfile
 # PUll base image
 From tomcat:8-jre8
 
