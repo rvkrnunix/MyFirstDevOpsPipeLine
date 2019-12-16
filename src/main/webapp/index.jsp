@@ -27,11 +27,11 @@
 				<td><input type="password" name="password" /></td>
 			</tr>
 			<tr>
-				<td>House Address</td>
+				<td>Residence Address</td>
 				<td><input type="text" name="address" /></td>
 			</tr>
 			<tr>
-				<td>Contact Number</td>
+				<td>Cell Number</td>
 				<td><input type="text" name="contact" /></td>
 			</tr>
 		</table>
